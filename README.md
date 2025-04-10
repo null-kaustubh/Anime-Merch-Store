@@ -2,8 +2,6 @@
 
 A responsive e-commerce web application for anime merchandise built with Node.js, Express, and Bootstrap. This project demonstrates a simple yet functional online store with product browsing, shopping cart functionality, and checkout process.
 
-![Anime Merch Shop](public/images/ds.png)
-
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop devices
